@@ -1,0 +1,24 @@
+# BIC21203 - Lab 4a: Client-Side Scripting (JavaScript)
+
+**Name:** [Adam Hakimi ]  
+**Matric No:** [Ci240089]  
+**Course:** BIC21203 Web Development  
+
+---
+
+## Overview
+This repository contains the solutions for Lab 4a, covering JavaScript DOM manipulation, input validation, and dynamic element generation.
+
+---
+
+## Project Structure
+- `q1/`: Interactive Text Changer (`index.html`, `script.js`)
+- `q2/`: Smart Number Validator (`index.html`, `script.js`)
+- `q3/`: Dynamic Number Generator (`index.html`, `script.js`)
+
+---
+
+## How to Run
+1. Open any question folder (`q1`, `q2`, or `q3`) in **VS Code**.
+2. Right-click `index.html` and select **Open with Live Server**.
+3. View and interact with the application in your browser at `http://127.0.0.1:5500/`.
